@@ -18,7 +18,7 @@ pipeline {
             steps {
                 echo "Testing.."
                 sh '''
-                echo "doing the crazy test stuff.. mmh crazy yeah"
+                echo "doing the crazy test stuff.. mmh crazy "
                 '''
             }
         }
